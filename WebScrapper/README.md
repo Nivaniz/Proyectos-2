@@ -20,7 +20,7 @@ pip install PySide6 pyquery
 
 Ventana Principal:
 <p align="center">
-  <img src="https://github.com/Nivaniz/Proyectos-2/tree/main/WebScrapper/img" alt="Main Window" style="width: 50%; max-width: 200px;">
+  <img src="https://github.com/Nivaniz/Proyectos-2/blob/main/WebScrapper/img/Captura%20de%20pantalla%202023-11-26%20124314.png" alt="Main Window" style="width: 50%; max-width: 200px;">
 </p>
 
 ## Cómo Ejecutar
